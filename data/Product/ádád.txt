@@ -1,0 +1,22 @@
+imgList: [
+      {
+        title: "anh doc",
+        url: "https://cdn2.unrealengine.com/egs-deathloop-arkanestudios-g1a-02-1920x1080-dcd4d7a8ff87.jpg",
+      },
+      {
+        title: "anh doc",
+        url: "https://cdn2.unrealengine.com/egs-deathloop-arkanestudios-g1a-03-1920x1080-55e480008e4d.jpg",
+      },
+      {
+        title: "anh doc",
+        url: "https://cdn2.unrealengine.com/egs-deathloop-arkanestudios-g1a-04-1920x1080-ef97db078690.jpg",
+      },
+      {
+        title: "anh doc",
+        url: "https://cdn2.unrealengine.com/egs-deathloop-arkanestudios-g1a-05-1920x1080-ee4dbcb6c09a.jpg",
+      },
+      {
+        title: "anh doc",
+        url: "https://cdn2.unrealengine.com/egs-deathloop-arkanestudios-g1a-06-1920x1080-9aa0f7147041.jpg",
+      },
+    ]
